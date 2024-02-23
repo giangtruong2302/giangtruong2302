@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/truonggiang"><img src="https://api.daily.dev/devcards/v2/Foq5zQFUZuoVtd3lBrSuF.png?type=default&r=3fa" width="356" alt="Truong Giang's Dev Card"/></a>
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on Ahamove company
+
+<a href="https://app.daily.dev/truonggiang"><img src="https://api.daily.dev/devcards/v2/Foq5zQFUZuoVtd3lBrSuF.png?type=wide&r=1u0" width="652" alt="Truong Giang's Dev Card"/></a>
 
 <!--
 **giangtruong2302/giangtruong2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

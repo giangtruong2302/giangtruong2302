@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ahamove company as Software Engineer fulltime
 
+https://vercel.com/ship/ticket/ZZ40tZwLgA6S 
+
 <a href="https://app.daily.dev/truonggiang"><img src="https://api.daily.dev/devcards/v2/Foq5zQFUZuoVtd3lBrSuF.png?type=wide&r=1u0" width="652" alt="Truong Giang's Dev Card"/></a>
 
 <!--

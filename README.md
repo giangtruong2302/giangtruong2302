@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://dev.to/trgiangdyno2302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trgiangdyno2302" height="30" width="40" /></a>
 <a href="https://twitter.com/@trgiangdyno2302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@trgiangdyno2302" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/giangduong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giangduong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giang-duong-2a5297229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giangduong" height="30" width="40" /></a>
 <a href="https://instagram.com/dyno.duong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dyno.duong" height="30" width="40" /></a>
 </p>
 

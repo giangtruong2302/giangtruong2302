@@ -64,7 +64,7 @@ Hello! I'm a software engineer with 3 years of experience in website and applica
                     </picture>
                     </a></p>
                     
-### Badges <b> My GitHub Stats</b>
+### Badges <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/giangtruong2302">
 

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering -- Frontend Developer
 ------------------------------------------
 
-Hello! I'm a software engineer with 3 years of experience in website and application development. Currently, I'm working at a domestic technology company. Throughout my career, I've had the opportunity to work across various business domains including edtech, salon booking, outsourcing, logistics, and e-commerce. I've collaborated with international engineers from Indonesia, Malaysia, Singapore, and Japan. My passion lies in creating high-value, practical products that solve real user problems using cutting-edge technologies. If you're interested, let's connect to learn more!
+Hello! I'm a software engineer with 4 years of experience in website and application development. Currently, I'm working at a domestic technology company. Throughout my career, I've had the opportunity to work across various business domains including edtech, salon booking, outsourcing, logistics, and e-commerce. I've collaborated with international engineers from Indonesia, Malaysia, Singapore, and Japan. My passion lies in creating high-value, practical products that solve real user problems using cutting-edge technologies. If you're interested, let's connect to learn more!
 
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [giangtruong2302@gmail.com](mailto:giangtruong2302@gmail.com)

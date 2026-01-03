@@ -8,7 +8,7 @@ Hello! I'm a software engineer with 4 years of experience in website and applica
 
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [giangtruong2302@gmail.com](mailto:giangtruong2302@gmail.com)
-*   🚀  I'm currently working on [Ahamove](http://www.ahamove.com/)
+*   🚀  I'm currently working on [Vingroup](https://vingroup.net)
 *   🧠  I'm learning Sai Gon Information Technology
 *   ⚡  Make everything to be great together
 *   <a href="https://www.github.com/giangtruong2302" target="_blank" rel="noreferrer">
